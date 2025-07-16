@@ -11,8 +11,8 @@ export const lectureData = [
             name: "Pre-Algebra",
             subTopics: [
               {
-                id: "general",
-                name: "General",
+                id: "Fractions and Decimals",
+                name: "Fractions and Decimals",
                 lectures: [
                   {
                     id: "class-7-2025-2026:-pre-algebra-1:-refresher-on-fractions-and-decimals-e7a481a4",
@@ -123,8 +123,8 @@ export const lectureData = [
             name: "Algebra",
             subTopics: [
               {
-                id: "general",
-                name: "General",
+                id: "Linear Equations",
+                name: "Linear Equations",
                 lectures: [
                   {
                     id: "class-7-2025-2026:-algebra:-linear-equations-1:-intro-to-linear-equations-in-one-variable-b1a430d6",
